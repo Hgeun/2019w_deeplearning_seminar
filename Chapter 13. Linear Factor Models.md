@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # Chapter 13. Linear Factor Models
 13.0 Intro  
 13.1 Probabilistic PCA and Factor Analysis  
