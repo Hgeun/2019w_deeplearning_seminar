@@ -5,5 +5,7 @@
 
  Chapter | Presenter | Date
  ---|---|---
- 13 | 박현근 | 1/3 
- 14 | 김동현 | 1/10
+ 13 Linear Factor Model | 박현근 | 1/3 
+ 14 Autoencoder  | 김동현 | 1/10 
+ 15 Representation Learning | 권선우 | 1/17 
+ 
