@@ -4,6 +4,8 @@
 jupyter notebook을 이용하여 ipynb파일로 업로드
 또는 ppt자료를 pdf로 변환하여 업로드
 
+## 발표 일정
+
  Chapter | Presenter | Date
  ---|---|---
  13 Linear Factor Model | 박현근 | 1/3 
