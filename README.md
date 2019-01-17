@@ -15,3 +15,12 @@
  18 Confronting the Partition Function | - | 2/14 
  19 Approximate Inference | - | 2/21 
  20 Deep Generative Models | - | 2/28 
+
+권선우 - https://github.com/sunwoo91  
+구범혁 - https://github.com/llamakoo  
+김동현 - https://github.com/henniekim  
+박현근 - https://github.com/hgeun  
+김진범 - https://github.com/rubai1597  
+방소윤 - https://github.com/bbangso  
+안재영 - https://github.com/93ahnjy  
+김양곤 - https://github.com/pixar0407  
