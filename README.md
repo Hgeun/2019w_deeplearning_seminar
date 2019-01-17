@@ -8,4 +8,5 @@
  13 Linear Factor Model | 박현근 | 1/3 
  14 Autoencoder  | 김동현 | 1/10 
  15 Representation Learning | 권선우 | 1/17 
+ 16 Structured Probabilistic Models for Deep Learning | 구범혁 | 1/24 
  
