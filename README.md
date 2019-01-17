@@ -1,7 +1,8 @@
 # 2019w_deeplearning_seminar
 2019.1~2 deep learning seminar
 
-수식사용시 jupyter notebook을 이용하여 ipynb파일로 업로드
+jupyter notebook을 이용하여 ipynb파일로 업로드
+또는 ppt자료를 pdf로 변환하여 업로드
 
  Chapter | Presenter | Date
  ---|---|---
@@ -16,6 +17,7 @@
  19 Approximate Inference | - | 2/21 
  20 Deep Generative Models | - | 2/28 
 
+## 구성원
 권선우 - https://github.com/sunwoo91  
 구범혁 - https://github.com/llamakoo  
 김동현 - https://github.com/henniekim  
