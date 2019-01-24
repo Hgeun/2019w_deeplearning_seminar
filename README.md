@@ -13,7 +13,7 @@ jupyter notebook을 이용하여 ipynb파일로 업로드
  15 Representation Learning | 권선우 | 1/17 
  (+) supervised learning abstract | 김양곤 | 1/17
  16 Structured Probabilistic Models for Deep Learning | 구범혁 | 1/24 
- 17 Monte Carlo Methods | - | 1/31 
+ 17 Monte Carlo Methods | 안재영 | 1/31 
  (+) unsupervised learning abstract | 김양곤 | 1/31 
  18 Confronting the Partition Function | - | 2/14 
  19 Approximate Inference | - | 2/21 
