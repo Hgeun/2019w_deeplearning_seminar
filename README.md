@@ -15,9 +15,9 @@ jupyter notebook을 이용하여 ipynb파일로 업로드
  16 Structured Probabilistic Models for Deep Learning | 구범혁 | 1/24 
  17 Monte Carlo Methods | 안재영 | 1/31 
  (+) unsupervised learning abstract | 김양곤 | 1/31 
- 18 Confronting the Partition Function | - | 2/14 
- 19 Approximate Inference | - | 2/21 
- 20 Deep Generative Models | - | 2/28 
+ 20 Deep Generative Models | 김진범 | 2/14 
+  - | - | 2/21 
+  - | - | 2/28 
 
 ## 구성원
 [권선우](https://github.com/sunwoo91)  
