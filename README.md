@@ -16,8 +16,8 @@ jupyter notebook을 이용하여 ipynb파일로 업로드
  17 Monte Carlo Methods | 안재영 | 1/31 
  (+) unsupervised learning abstract | 김양곤 | 1/31 
  20 Deep Generative Models | 김진범 | 2/14 
-  - | - | 2/21 
-  - | - | 2/28 
+ - | - | 2/21 
+ - | - | 2/28 
 
 ## 구성원
 [권선우](https://github.com/sunwoo91)  
